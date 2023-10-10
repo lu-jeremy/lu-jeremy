@@ -2,30 +2,12 @@
 
 I am an undergraduate student studying computer science & artificial intelligence at Purdue University.
 
-## Coursework
-
-### Purdue University
-
-* [x] CS 180: Problem Solving and Object-Oriented Programming
-* [x] CS 176: Data Engineering in Python
-* [ ] CS 182: Foundations of Computer Science (Discrete Mathematics)
-* [ ] CS 240: Programming in C
-* [ ] STAT 350: Introduction to Statistics
-* [ ] MA 265: Linear Algebra
-
-### West Valley College 
-
-* [x] MATH 004A: Intermediate Calculus (Multivariate Calculus)
-* [x] MATH 004C: Linear Algebra
-
 ## Research Projects
 
 * A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal Networks (2022-2023)
 * Reconstructing Static Memories from the Brain with EEG Feature Extraction and Generative Adversarial Networks (2021-2022)
 * Communication Without Movement: EEG Text Generation/Autosuggestion with Natural Language Processing in the Immobilized (2021-2022)
 * Detecting Nociceptive Intensity Ratings in Patients’ fMRI Scans (2020-2021)
-
-
 
 ## Goals
 
@@ -61,7 +43,7 @@ While I have seven years of ML experience, I recognize that I still have much to
 * Memory management with swap space and model checkpointing
 * Neural networks
 
-### Computer Vision - Proficient
+### Computer Vision
   * Supervised learning
     * 2D/3D CNN, ResNet, U-Net architectures
     * Image segmentation
@@ -76,7 +58,7 @@ While I have seven years of ML experience, I recognize that I still have much to
     * GradCAM
   * Pre-processing methods (image augmentation, scaling, transformation).
 
-### Probabilistic and Optimization Theory - Experience
+### Probabilistic and Optimization Theory
 * Linear/Logistic Regression
 * Gaussian Discriminant Analysis
 * Generalized Linear Models
@@ -91,12 +73,27 @@ While I have seven years of ML experience, I recognize that I still have much to
 * Objective functions
   * Multi-objective optimization - weighted sums, constraint handling
 
-### Natural Language Processing (NLP) - Experience
+### Natural Language Processing (NLP)
 * Text cleaning
   * Stemming, lemmatization, stop word removal
 * Sequence models
   * RNN, Uni/Bidirectional LSTMs
 
+## Coursework
+
+### Purdue University
+
+* [x] CS 180: Problem Solving and Object-Oriented Programming
+* [x] CS 176: Data Engineering in Python
+* [ ] CS 182: Foundations of Computer Science (Discrete Mathematics)
+* [ ] CS 240: Programming in C
+* [ ] STAT 350: Introduction to Statistics
+* [ ] MA 265: Linear Algebra
+
+### West Valley College 
+
+* [x] MATH 004A: Intermediate Calculus (Multivariate Calculus)
+* [x] MATH 004C: Linear Algebra
 
 
 <!--
