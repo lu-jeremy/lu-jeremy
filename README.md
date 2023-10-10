@@ -28,7 +28,7 @@ I am an undergraduate student studying computer science & artificial intelligenc
 
 
 
-## AI Goals and Expertise
+## Goals
 
 In general, I seek to gain breadth of knowledge in ML theory, debugging, and deployment.
 
