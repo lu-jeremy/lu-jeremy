@@ -19,7 +19,16 @@ I am an undergraduate student studying computer science & artificial intelligenc
 * [x] MATH 004A: Intermediate Calculus (Multivariate Calculus)
 * [x] MATH 004C: Linear Algebra
 
-## AI Goals and Experience
+## Research Projects
+
+* A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal Networks (2022-2023)
+* Reconstructing Static Memories from the Brain with EEG Feature Extraction and Generative Adversarial Networks (2021-2022)
+* Communication Without Movement: EEG Text Generation/Autosuggestion with Natural Language Processing in the Immobilized (2021-2022)
+* Detecting Nociceptive Intensity Ratings in Patients’ fMRI Scans (2020-2021)
+
+
+
+## AI Goals and Expertise
 
 In general, I seek to gain breadth of knowledge in ML theory, debugging, and deployment.
 
