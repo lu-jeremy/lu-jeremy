@@ -25,14 +25,15 @@ In general, I seek to gain breadth of knowledge in ML theory, debugging, and dep
 
 While I have seven years of ML experience, I recognize that I still have much to learn to gain mastery of the field. These are all concepts and skills that I am continuously developing through coursework, self-study, and personal research projects:
 
-  * MLOps: scalability, compression, quantization, deployment of models
+  * Fundamentals of statistics: expectation, hypothesis testing, distributions (Gaussian, Bernoulli, Poisson, etc.) 
+  * Fundamentals of computer science: data structures, discrete mathematics, traversal and search algorithms, low-level C/C++
   * Data retrieval, cleaning, and pre-processing
-  * NLP - transformers, prompt-engineering, LLMs
   * Metrics - precision, recall, confusion matrices
   * Performance evaluation - ERM, estimation error, bias-variance tradeoffs
   * Cross validation
-  * Fundamentals of statistics: expectation, hypothesis testing, distributions (Gaussian, Bernoulli, Poisson, etc.) 
-  * Fundamentals of computer science: data structures, discrete mathematics, traversal and search algorithms, low-level C/C++
+  * MLOps: scalability, compression, quantization, deployment of models
+  * NLP - transformer variants, prompt-engineering, LLMs
+
 
 ## Expertise
 
