@@ -23,7 +23,7 @@ I am an undergraduate student studying computer science & artificial intelligenc
 
 In general, I seek to gain breadth of knowledge in ML theory, debugging, and deployment.
 
-While I have seven years of ML experience, I recognize that I still have much to learn to gain mastery of the field. These are all concepts and skills that I am continuously developing through coursework, self-study, and personal research projects:
+While I have seven years of ML experience, I recognize that I still have much to learn to gain mastery of the field. These are all concepts and skills that I continuously develop through coursework, self-study, and personal research projects:
 
   * Fundamentals of statistics: expectation, hypothesis testing, distributions (Gaussian, Bernoulli, Poisson, etc.) 
   * Fundamentals of computer science: data structures, discrete mathematics, traversal and search algorithms, low-level C/C++
@@ -83,7 +83,7 @@ While I have seven years of ML experience, I recognize that I still have much to
 * Objective functions
   * Multi-objective optimization - weighted sums, constraint handling
 
-### Natural Language Processing (NLP) - Experience (in consideration for the accelerating landscape of LLMs and text-prompt engineering)
+### Natural Language Processing (NLP) - Experience
 * Text cleaning
   * Stemming, lemmatization, stop word removal
 * Sequence models
