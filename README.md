@@ -22,8 +22,7 @@ I am an undergraduate student studying computer science & artificial intelligenc
 ## Research Projects
 
 * A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal Networks (2022-2023)
-* Reconstructing Static Memories from the Brain with EEG Feature Extraction and Generative Adversarial Networks (2021-2022)
-   * [Journal of Student Research](https://doi.org/10.47611/jsrhs.v12i1.4178)
+* Reconstructing Static Memories from the Brain with EEG Feature Extraction and Generative Adversarial Networks (2021-2022) - [Journal of Student Research](https://doi.org/10.47611/jsrhs.v12i1.4178)
 * Communication Without Movement: EEG Text Generation/Autosuggestion with Natural Language Processing in the Immobilized (2021-2022)
 * Detecting Nociceptive Intensity Ratings in Patients’ fMRI Scans (2020-2021)
 
