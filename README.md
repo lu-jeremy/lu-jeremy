@@ -9,10 +9,10 @@ I am an undergraduate student studying computer science & artificial intelligenc
 * [x] CS180: Problem Solving and Object-Oriented Programming
 * [x] CS176: Data Engineering in Python
 (Expected)
-* [] CS182: Foundations of Computer Science (Discrete Mathematics)
-* [] CS240: Programming in C
-* [] STAT350: Introduction to Statistics
-* [] MA265: Linear Algebra
+* [ ] CS182: Foundations of Computer Science (Discrete Mathematics)
+* [ ] CS240: Programming in C
+* [ ] STAT350: Introduction to Statistics
+* [ ] MA265: Linear Algebra
 
 ### West Valley College 
 
