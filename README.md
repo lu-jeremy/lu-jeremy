@@ -6,18 +6,18 @@ I am an undergraduate student studying computer science & artificial intelligenc
 
 ### Purdue University
 
-* [x] CS180: Problem Solving and Object-Oriented Programming
-* [x] CS176: Data Engineering in Python
+* [x] CS 180: Problem Solving and Object-Oriented Programming
+* [x] CS 176: Data Engineering in Python
 (Expected)
-* [ ] CS182: Foundations of Computer Science (Discrete Mathematics)
-* [ ] CS240: Programming in C
-* [ ] STAT350: Introduction to Statistics
-* [ ] MA265: Linear Algebra
+* [ ] CS 182: Foundations of Computer Science (Discrete Mathematics)
+* [ ] CS 240: Programming in C
+* [ ] STAT 350: Introduction to Statistics
+* [ ] MA 265: Linear Algebra
 
 ### West Valley College 
 
-* [x] MATH004A: Intermediate Calculus (Multivariate Calculus)
-* [x] MATH004C: Linear Algebra
+* [x] MATH 004A: Intermediate Calculus (Multivariate Calculus)
+* [x] MATH 004C: Linear Algebra
 
 ## AI Goals and Experience
 
