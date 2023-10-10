@@ -8,7 +8,6 @@ I am an undergraduate student studying computer science & artificial intelligenc
 
 * [x] CS 180: Problem Solving and Object-Oriented Programming
 * [x] CS 176: Data Engineering in Python
-(Expected)
 * [ ] CS 182: Foundations of Computer Science (Discrete Mathematics)
 * [ ] CS 240: Programming in C
 * [ ] STAT 350: Introduction to Statistics
