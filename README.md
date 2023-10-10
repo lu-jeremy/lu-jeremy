@@ -1,4 +1,94 @@
-### Hi there 👋
+# Hello there! 👋
+
+- I am currently studying computer science & artificial intelligence at Purdue University.
+
+## Coursework
+
+### Purdue University
+
+* [x] CS180: Problem Solving and Object-Oriented Programming
+* [x] CS176: Data Engineering in Python
+(Expected)
+* [] CS182: Foundations of Computer Science (Discrete Mathematics)
+* [] CS240: Programming in C
+* [] STAT350: Introduction to Statistics
+* [] MA265: Linear Algebra
+
+### West Valley College 
+
+* [x] MATH004A: Intermediate Calculus (Multivariate Calculus)
+* [x] MATH004C: Linear Algebra
+
+## AI Goals and Experience
+
+In general, I seek to gain breadth of knowledge in ML theory, debugging, and deployment.
+
+While I have seven years of ML experience, I recognize that I still have much to learn to gain mastery of the field. These are all concepts and skills that I am continuously developing through coursework, self-study, and personal research projects:
+
+  * MLOps: scalability, compression, quantization, deployment of models
+  * Data retrieval, cleaning, and pre-processing
+  * NLP - transformers, prompt-engineering, LLMs
+  * Metrics - precision, recall, confusion matrices
+  * Performance evaluation - ERM, estimation error, bias-variance tradeoffs
+  * Cross validation
+  * Fundamentals of statistics: expectation, hypothesis testing, distributions (Gaussian, Bernoulli, Poisson, etc.) 
+  * Fundamentals of computer science: data structures, discrete mathematics, traversal and search algorithms, low-level C/C++
+
+## Expertise
+
+### General
+* Distributed Training
+  * Mirrored and TPU strategies
+* Comfortability with Tensorflow Sequential/Functional API
+  * Custom model classes, layers, and callbacks
+  * Training loops with gradient tape
+* OpenCV
+  * Image and video I/O
+  * Masks and contours
+* Matplotlib
+* NumPy
+  * Basic operations
+* Hyperparameter optimization with grid search
+* Memory management with swap space and model checkpointing
+* Neural networks
+
+### Computer Vision - Proficient
+  * Supervised learning
+    * 2D/3D CNN, ResNet, U-Net architectures
+    * Image segmentation
+    * Instance segmentation
+    * Transfer learning and fine-tuning
+  * Unsupervised generative modeling
+    * GAN/VAE architectures - training, optimization, debugging
+    * StyleGAN, CGAN, CVAE-GAN, neural style transfer
+    * Semi-supervised image-to-image translation
+  * Explainability
+    * Saliency maps
+    * GradCAM
+  * Pre-processing methods (image augmentation, scaling, transformation).
+
+### Probabilistic and Optimization Theory - Experience
+* Linear/Logistic Regression
+* Gaussian Discriminant Analysis
+* Generalized Linear Models
+* Support Vector Machines
+* RL - derivations and implementations (Tensorflow)
+  * Markov Decision Processes (MDPs)
+  * Discrete/continuous state and action spaces
+  * Value/policy iteration
+  * Policy gradients
+    * Vanilla REINFORCE
+    * Deep RL: Actor-critic methods (DDPG, TD3) 
+* Objective functions
+  * Multi-objective optimization - weighted sums, constraint handling
+
+### Natural Language Processing (NLP) - Experience (in consideration for the accelerating landscape of LLMs and text-prompt engineering)
+* Text cleaning
+  * Stemming, lemmatization, stop word removal
+* Sequence models
+  * RNN, Uni/Bidirectional LSTMs
+
+
 
 <!--
 **lu-jeremy/lu-jeremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
