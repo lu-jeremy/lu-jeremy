@@ -1,6 +1,6 @@
-# Hello there! 👋
+# Hello there!
 
-- I am currently studying computer science & artificial intelligence at Purdue University.
+I am an undergraduate student studying computer science & artificial intelligence at Purdue University.
 
 ## Coursework
 
