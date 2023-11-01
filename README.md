@@ -17,6 +17,8 @@ I am an undergraduate student studying computer science & artificial intelligenc
 * Comfortability with Tensorflow Sequential/Functional API
   * Custom model classes, layers, and callbacks
   * Training loops with gradient tape
+* Pandas
+  * Data cleaning, filtering, aggregatation, transformation, etc.
 * OpenCV
   * Image and video I/O
   * Masks and contours
