@@ -1,6 +1,6 @@
 # Hello there!
 
-I am an undergraduate student studying computer science & artificial intelligence at Purdue University.
+I am an undergraduate student studying computer science & artificial intelligence at Purdue University. I am currently developing research in 3D reconstruction, image-to-image translation, and graphics rendering using CUDA accelerated software and generative AI. Feel free to reach out if there are any inquiries or ideas regarding this or in general!
 
 ## Research Projects
 
