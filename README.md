@@ -1,6 +1,6 @@
 # Hello there!
 
-I am an undergraduate student studying computer science & artificial intelligence at Purdue University. My research interests in computer vision, generative modeling, deep learning, and reinforcement learning. Feel free to reach out if there are any inquiries or ideas regarding this or in general!
+I am an undergraduate student studying Computer Science & Artificial Intelligence at Purdue University. My research interests in computer vision, generative modeling, deep learning, and reinforcement learning. Please feel free to reach out!
 
 ## Research Projects
 
@@ -89,7 +89,7 @@ While I have seven years of ML experience, I recognize that I still have much to
 * [ ] CS 182: Foundations of Computer Science (Discrete Mathematics)
 * [ ] CS 240: Programming in C
 * [ ] STAT 350: Introduction to Statistics
-* [ ] MA 265: Linear Algebra
+* [ ] MA 351: Elementary Linear Algebra
 
 ### West Valley College 
 
