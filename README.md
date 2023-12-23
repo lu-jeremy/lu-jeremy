@@ -43,6 +43,9 @@ I am an undergraduate student studying Computer Science & Artificial Intelligenc
     * Saliency maps
     * GradCAM
   * Pre-processing methods (image augmentation, scaling, transformation).
+  * TCN
+  * DDIM/DDPM
+  * Transformers
 
 ### Probabilistic and Optimization Theory
 * Linear/Logistic Regression
@@ -71,8 +74,6 @@ In general, I seek to gain breadth of knowledge in ML theory, debugging, and dep
 
 While I have seven years of ML experience, I recognize that I still have much to learn to gain mastery of the field. These are all concepts and skills that I continuously develop through coursework, self-study, and personal research projects:
 
-  * Fundamentals of statistics: expectation, hypothesis testing, distributions (Gaussian, Bernoulli, Poisson, etc.) 
-  * Fundamentals of computer science: data structures, discrete mathematics, traversal and search algorithms, low-level C/C++
   * Data retrieval, cleaning, and pre-processing
   * Metrics - precision, recall, confusion matrices
   * Performance evaluation - ERM, estimation error, bias-variance tradeoffs
@@ -88,7 +89,7 @@ While I have seven years of ML experience, I recognize that I still have much to
 * [x] CS 176: Data Engineering in Python
 * [ ] CS 182: Foundations of Computer Science (Discrete Mathematics)
 * [ ] CS 240: Programming in C
-* [ ] STAT 350: Introduction to Statistics
+* [ ] STAT 416: Probability
 * [ ] MA 351: Elementary Linear Algebra
 
 ### West Valley College 
