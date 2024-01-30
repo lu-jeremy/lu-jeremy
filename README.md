@@ -1,6 +1,6 @@
 # Hello there!
 
-I am an undergraduate student studying Computer Science & Artificial Intelligence at Purdue University. My research interests in computer vision, generative modeling, deep learning, and reinforcement learning. Please feel free to reach out!
+I am an undergraduate student studying Computer Science & Artificial Intelligence at Purdue University. My research interests are in computer vision, generative modeling, deep learning, and reinforcement learning. Please feel free to reach out!
 
 ## Research Projects
 
@@ -67,36 +67,6 @@ I am an undergraduate student studying Computer Science & Artificial Intelligenc
   * Stemming, lemmatization, stop word removal
 * Sequence models
   * RNN, Uni/Bidirectional LSTMs
-
-## Goals
-
-In general, I seek to gain breadth of knowledge in ML theory, debugging, and deployment.
-
-While I have seven years of ML experience, I recognize that I still have much to learn to gain mastery of the field. These are all concepts and skills that I continuously develop through coursework, self-study, and personal research projects:
-
-  * Data retrieval, cleaning, and pre-processing
-  * Metrics - precision, recall, confusion matrices
-  * Performance evaluation - ERM, estimation error, bias-variance tradeoffs
-  * Cross validation
-  * MLOps: scalability, compression, quantization, deployment of models
-  * NLP - transformer variants, prompt-engineering, LLMs
-
-## Coursework
-
-### Purdue University
-
-* [x] CS 180: Problem Solving and Object-Oriented Programming
-* [x] CS 176: Data Engineering in Python
-* [ ] CS 182: Foundations of Computer Science (Discrete Mathematics)
-* [ ] CS 240: Programming in C
-* [ ] STAT 416: Probability
-* [ ] MA 351: Elementary Linear Algebra
-
-### West Valley College 
-
-* [x] MATH 004A: Intermediate Calculus (Multivariate Calculus)
-* [x] MATH 004C: Linear Algebra
-
 
 <!--
 **lu-jeremy/lu-jeremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
