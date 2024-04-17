@@ -9,6 +9,7 @@ I am an undergraduate student studying Computer Science & Artificial Intelligenc
 * Communication Without Movement: EEG Text Generation/Autosuggestion with Natural Language Processing in the Immobilized (2021-2022)
 * Detecting Nociceptive Intensity Ratings in Patients’ fMRI Scans (2020-2021)
 
+<!--
 ## Expertise
 
 ### General
@@ -67,6 +68,7 @@ I am an undergraduate student studying Computer Science & Artificial Intelligenc
   * Stemming, lemmatization, stop word removal
 * Sequence models
   * RNN, Uni/Bidirectional LSTMs
+-->
 
 <!--
 **lu-jeremy/lu-jeremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
