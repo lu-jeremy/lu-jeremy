@@ -1,6 +1,6 @@
 # Hello there!
 
-I am an undergraduate student studying Computer Science & Artificial Intelligence at Purdue University. My research interests are in computer vision, generative modeling, deep learning, and reinforcement learning. Please feel free to reach out!
+I am an undergraduate student studying computer science and mathematics at Purdue University. My research interests are in computer vision, generative modeling, deep learning, and reinforcement learning. Please feel free to reach out!
 
 ## Research Projects
 
