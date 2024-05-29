@@ -2,16 +2,12 @@
 
 I am an undergraduate student studying computer science and mathematics at Purdue University, where I am a research assistant for the Cognitive Robot Autonomy & Learning (CoRAL) lab. I conduct research in computer vision, generative modeling, deep learning, reinforcement learning, and robotics.
 
-## Research Projects
+## Research
 
 * Neural Signal Temporal Logic (STL) Controller with Task-Agnostic Diffusion Policy for Visual Agents (2024)
 * End-to-end Diffusion Transformer for Action Segmentation in Manual Manufacturing Process Analysis (2024)
-
-Publications:
 * A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal Networks (2022-2023)
 * Reconstructing Static Memories from the Brain with EEG Feature Extraction and Generative Adversarial Networks (2021-2022)
-
-Past Research:
 * Communication Without Movement: EEG Text Generation/Autosuggestion with Natural Language Processing in the Immobilized (2021-2022)
 * Detecting Nociceptive Intensity Ratings in Patients’ fMRI Scans (2020-2021)
 
