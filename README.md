@@ -1,6 +1,6 @@
 # Hello there!
 
-I am an undergraduate student studying computer science and mathematics at Purdue University, where I am a research assistant for the Cognitive Robot Autonomy & Learning (CoRAL) lab. I conduct research in computer vision, generative modeling, deep learning, reinforcement learning, and robotics.
+I am an undergraduate student studying computer science and mathematics at Purdue University. Currently, I am a research assistant at the Cognitive Robot Autonomy & Learning (CoRAL) lab. My research fields include: computer vision, generative modeling, deep learning, reinforcement learning, and robotics.
 
 ## Research
 
