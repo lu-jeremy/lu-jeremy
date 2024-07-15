@@ -5,7 +5,7 @@ I am an undergraduate student studying computer science and mathematics at Purdu
 ## Research
 
 * Neural Signal Temporal Logic Controller for Dynamic Visual Navigation (2024)
-* End-to-End Diffusion Transformer for Action Segmentation in Manual Manufacturing Process Analysis (2024)
+* End-to-end Diffusion Transformer for Action Segmentation in Manual Manufacturing Process Analysis (2024)
 * A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal Networks (2022-2023)
 * Reconstructing Static Memories from the Brain with EEG Feature Extraction and Generative Adversarial Networks (2021-2022)
 * Communication Without Movement: EEG Text Generation/Autosuggestion with Natural Language Processing in the Immobilized (2021-2022)
