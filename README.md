@@ -1,10 +1,10 @@
 # Hello there!
 
-I am an undergraduate student studying computer science and mathematics at Purdue University. Currently, I am a research assistant at the Cognitive Robot Autonomy & Learning (CoRAL) Lab, where I am developing autonomous visual navigation in robotics. My research fields include: computer vision, generative modeling, deep learning, reinforcement learning, and robotics.
+I am an undergraduate student studying computer science and mathematics at Purdue University. Currently, I am a research assistant at the Cognitive Robot Autonomy & Learning (CoRAL) Lab, where I am developing visual navigation software in robotics. My research fields include: computer vision, generative modeling, deep learning, reinforcement learning, and robotics.
 
 ## Research
 
-* Neural Signal Temporal Logic Controller for Dynamic Visual Navigation (2024)
+* Neural Signal Temporal Logic Controller for Autonomous Visual Navigation (2024)
 * End-to-end Diffusion Transformer for Action Segmentation in Manual Manufacturing Process Analysis (2024)
 * A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal Networks (2022-2023)
 * Reconstructing Static Memories from the Brain with EEG Feature Extraction and Generative Adversarial Networks (2021-2022)
