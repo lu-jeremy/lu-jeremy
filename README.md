@@ -1,5 +1,3 @@
-# Hello there!
-
 I am an undergraduate student in CS Honors at Purdue University. I am a research assistant at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, directed by professor Ahmed H. Qureshi. My research fields include machine learning, computer vision, generative modeling, deep learning, and robotics.
 
 ## Research
