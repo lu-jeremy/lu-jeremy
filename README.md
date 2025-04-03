@@ -4,17 +4,28 @@ I am an undergraduate student pursuing a B.S. in **Computer Science Honors** and
 
 🤖 Currently, I am working on robot motion planning with VLMs at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, advised by professor Ahmed H. Qureshi.
 
-## Projects
-* Multi-agent Relational Keypoints for Zero-Shot Robotics Manipulation (*In Progress*)
-* Neural Signal Temporal Logic Vision-Language Planner (**2024**)
-* End-to-end Diffusion Transformer for Action Segmentation in Manual Manufacturing Process Analysis (**2024**)
+---
 
-## Student Papers
-[1] Lu, J., & Messenger, C. (2023). A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal
-Networks. Journal of Student Research, 12(3).
+## Projects 🚀
+Here are some of the projects I am currently working on:
 
-[2] Lu, J., Zhang, M., & Masoom H. (2022). Reconstructing Static Memories from the Brain with EEG Feature
-Extraction and Generative Adversarial Networks. SSRN Electronic Journal.
+- **Multi-agent Relational Keypoints for Zero-Shot Robotics Manipulation** *(In Progress)*
+- **Neural Signal Temporal Logic Vision-Language Planner** *(Expected 2024)*
+- **End-to-end Diffusion Transformer for Action Segmentation in Manual Manufacturing Process Analysis** *(Expected 2024)*
+
+---
+
+## 📄 Student Papers
+
+1. **[Lu, J., & Messenger, C.](https://example.com/paper1)** (2023).  
+   *A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal Networks.*  
+   *Journal of Student Research, 12(3).*
+   
+2. **[Lu, J., Zhang, M., & Masoom H.](https://example.com/paper2)** (2022).  
+   *Reconstructing Static Memories from the Brain with EEG Feature Extraction and Generative Adversarial Networks.*  
+   *SSRN Electronic Journal.*
+
+---
 
 <!--
 ## Expertise
