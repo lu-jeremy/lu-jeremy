@@ -1,13 +1,13 @@
 # About Me :wave:
 
-I am an undergraduate student studying **Computer Science Honors** and **Statistics** at **Purdue University**. I am interested in machine learning, computer vision, and robotics.
+I am an undergraduate student studying **Computer Science Honors** and **Statistics - Math Emphasis** at **Purdue University**, minoring in Mathematics. I am interested in machine learning, computer vision, and robotics.
 
 🤖 Currently, I am working on robot motion planning with VLMs at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, advised by professor Ahmed H. Qureshi.
 
 ## Projects
-* Multi-agent Relational Keypoints for Zero-Shot Robotics Manipulation (In Progress)
-* Neural Signal Temporal Logic Vision-Language Planner (2024)
-* End-to-end Diffusion Transformer for Action Segmentation in Manual Manufacturing Process Analysis (2024)
+* Multi-agent Relational Keypoints for Zero-Shot Robotics Manipulation (*In Progress*)
+* Neural Signal Temporal Logic Vision-Language Planner (**2024**)
+* End-to-end Diffusion Transformer for Action Segmentation in Manual Manufacturing Process Analysis (**2024**)
 
 ## Student Papers
 [1] Lu, J., & Messenger, C. (2023). A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal
