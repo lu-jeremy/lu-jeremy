@@ -1,6 +1,6 @@
 # About Me :wave:
 
-I am an undergraduate student studying **Computer Science Honors** and **Statistics** at **Purdue University**, interested in machine learning, computer vision, and robotics.
+I am an undergraduate student studying **Computer Science Honors** and **Statistics** at **Purdue University**. I am interested in machine learning, computer vision, and robotics.
 
 🤖 Currently, I'm working on robot motion planning with VLMs at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, advised by professor Ahmed H. Qureshi.
 
