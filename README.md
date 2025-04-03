@@ -2,7 +2,7 @@
 
 I am an undergraduate student studying **Computer Science Honors** and **Statistics** at **Purdue University**. I am interested in machine learning, computer vision, and robotics.
 
-🤖 Currently, I'm working on robot motion planning with VLMs at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, advised by professor Ahmed H. Qureshi.
+🤖 Currently, I am working on robot motion planning with VLMs at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, advised by professor Ahmed H. Qureshi.
 
 ## Projects
 * Multi-agent Relational Keypoints for Zero-Shot Robotics Manipulation (In Progress)
@@ -12,6 +12,7 @@ I am an undergraduate student studying **Computer Science Honors** and **Statist
 ## Student Papers
 [1] Lu, J., & Messenger, C. (2023). A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal
 Networks. Journal of Student Research, 12(3).
+
 [2] Lu, J., Zhang, M., & Masoom H. (2022). Reconstructing Static Memories from the Brain with EEG Feature
 Extraction and Generative Adversarial Networks. SSRN Electronic Journal.
 
