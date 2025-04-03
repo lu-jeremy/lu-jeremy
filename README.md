@@ -10,20 +10,20 @@ I am an undergraduate student pursuing a B.S. in **Computer Science Honors** and
 Here are some of the projects I am currently working on:
 
 - **Multi-agent Relational Keypoints for Zero-Shot Robotics Manipulation** *(In Progress)*
-- **Neural Signal Temporal Logic Vision-Language Planner** *(Expected 2024)*
-- **End-to-end Diffusion Transformer for Action Segmentation in Manual Manufacturing Process Analysis** *(Expected 2024)*
+- **Neural Signal Temporal Logic Vision-Language Planner** *(2024)*
+- **End-to-end Diffusion Transformer for Action Segmentation in Manual Manufacturing Process Analysis** *(2024)*
 
 ---
 
 ## 📄 Student Papers
 
-1. **[Lu, J., & Messenger, C.](https://example.com/paper1)** (2023).  
+1. **[Lu, J., & Messenger, C.](https://doi.org/10.47611/jsrhs.v12i3.4622)** (2023).
    *A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal Networks.*  
-   *Journal of Student Research, 12(3).*
+   Journal of Student Research, 12(3).
    
-2. **[Lu, J., Zhang, M., & Masoom H.](https://example.com/paper2)** (2022).  
+2. **[Lu, J., Zhang, M., & Masoom H.](http://dx.doi.org/10.2139/ssrn.4400662)** (2022).  
    *Reconstructing Static Memories from the Brain with EEG Feature Extraction and Generative Adversarial Networks.*  
-   *SSRN Electronic Journal.*
+   SSRN Electronic Journal.
 
 ---
 
