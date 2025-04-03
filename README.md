@@ -17,12 +17,12 @@ Here are some of the projects I am currently working on:
 
 ## 📄 Student Papers
 
-1. **[Lu, J., & Messenger, C.](https://doi.org/10.47611/jsrhs.v12i3.4622)** (2023).
-   *A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal Networks.*  
+1. **Lu, J.**, & Messenger, C. (2023).
+   [*A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal Networks.*](https://doi.org/10.47611/jsrhs.v12i3.4622)
    Journal of Student Research, 12(3).
    
-2. **[Lu, J., Zhang, M., & Masoom H.](http://dx.doi.org/10.2139/ssrn.4400662)** (2022).  
-   *Reconstructing Static Memories from the Brain with EEG Feature Extraction and Generative Adversarial Networks.*  
+2. **Lu, J.**, Zhang, M., & Masoom H. (2022).  
+   [*Reconstructing Static Memories from the Brain with EEG Feature Extraction and Generative Adversarial Networks.*](http://dx.doi.org/10.2139/ssrn.4400662)  
    SSRN Electronic Journal.
 
 ---
