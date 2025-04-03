@@ -1,9 +1,8 @@
-# About Me
+# About Me :wave:
 
-Hi :wave:, I am an undergraduate student studying **Computer Science Honors** and **Statistics** at **Purdue University**.
-My work involves statistical machine learning, computer vision, and robotics.
+I am an undergraduate student studying **Computer Science Honors** and **Statistics** at **Purdue University**, interested in machine learning, computer vision, and robotics.
 
-Currently, I'm working on robot motion planning 🤖 with VLMs at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, advised by professor Ahmed H. Qureshi.
+🤖 Currently, I'm working on robot motion planning with VLMs at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, advised by professor Ahmed H. Qureshi.
 
 ## Projects
 * Multi-agent Relational Keypoints for Zero-Shot Robotics Manipulation (In Progress)
