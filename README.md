@@ -1,4 +1,4 @@
-# About Me :wave:
+# :wave: About Me
 
 I am an undergraduate student pursuing a B.S. in **Computer Science Honors** and **Statistics - Math Emphasis** at **Purdue University**, minoring in Mathematics. I am interested in machine learning, computer vision, and robotics.
 
@@ -6,7 +6,7 @@ I am an undergraduate student pursuing a B.S. in **Computer Science Honors** and
 
 ---
 
-## Projects 🚀
+## 🚀 Projects
 Here are some of the projects I have been working on:
 
 - **Multi-agent Relational Keypoints for Zero-Shot Robotics Manipulation** *(In Progress)*
