@@ -7,7 +7,7 @@ I am an undergraduate student pursuing a B.S. in **Computer Science Honors** and
 ---
 
 ## Projects 🚀
-Here are some of the projects I am currently working on:
+Here are some of the projects I have been working on:
 
 - **Multi-agent Relational Keypoints for Zero-Shot Robotics Manipulation** *(In Progress)*
 - **Neural Signal Temporal Logic Vision-Language Planner** *(2024)*
