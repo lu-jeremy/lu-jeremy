@@ -1,6 +1,7 @@
 ## About Me
 
-I am an undergraduate student pursuing **Computer Science Honors** and **Statistics** at **Purdue University**. My interests include statistical ML, computer vision, generative modeling, robotics, and deep learning.
+I am an undergraduate student pursuing **Computer Science Honors** and **Statistics** at **Purdue University**.
+My work involves statistical machine learning, computer vision, generative modeling, robotics, and deep learning.
 
 Currently, I'm working on robot manipulation with VLMs at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, advised by professor Ahmed H. Qureshi.
 
