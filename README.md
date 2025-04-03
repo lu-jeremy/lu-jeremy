@@ -1,18 +1,20 @@
-## About Me
+# About Me
 
-I am an undergraduate student pursuing **Computer Science Honors** and **Statistics** at **Purdue University**.
+Hi :wave:, I am an undergraduate student pursuing **Computer Science Honors** and **Statistics** at **Purdue University**.
 My work involves statistical machine learning, computer vision, generative modeling, robotics, and deep learning.
 
-Currently, I'm working on robot manipulation with VLMs at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, advised by professor Ahmed H. Qureshi.
+Currently, I'm working on robot manipulation with VLMs 🤖 at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, advised by professor Ahmed H. Qureshi.
 
-## Past Projects
-
+## Projects
+* Multi-agent Relational Keypoints for Zero-Shot Robotics Manipulation
 * Neural Signal Temporal Logic Vision-Language Planner (2024)
 * End-to-end Diffusion Transformer for Action Segmentation in Manual Manufacturing Process Analysis (2024)
-* A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal Networks (2022-2023)
-* Reconstructing Static Memories from the Brain with EEG Feature Extraction and Generative Adversarial Networks (2021-2022)
-* Communication Without Movement: EEG Text Generation/Autosuggestion with Natural Language Processing in the Immobilized (2021-2022)
-* Detecting Nociceptive Intensity Ratings in Patients’ fMRI Scans (2020-2021)
+
+## Student Papers
+[1] Lu, J., & Messenger, C. (2023). A Novel Approach to Optimize Memory Reconstruction Using Joint Multimodal
+Networks. Journal of Student Research, 12(3).
+[2] Lu, J., Zhang, M., & Masoom H. (2022). Reconstructing Static Memories from the Brain with EEG Feature
+Extraction and Generative Adversarial Networks. SSRN Electronic Journal.
 
 <!--
 ## Expertise
