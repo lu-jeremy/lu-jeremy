@@ -1,6 +1,10 @@
-I am an undergraduate student in CS Honors at Purdue University. Currently, I am a research assistant at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, directed by professor Ahmed H. Qureshi. My research fields include machine learning, computer vision, generative modeling, deep learning, and robotics.
+## About Me
 
-## Research
+I am an undergraduate student pursuing a **B.S. Computer Science Honors** at **Purdue University**. My interests include statistical ML, computer vision, generative modeling, robotics, and deep learning.
+
+- Currently, I'm working on robot manipulation with VLMs at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, advised by professor Ahmed H. Qureshi.
+
+## Past Projects
 
 * Neural Signal Temporal Logic Vision-Language Planner (2024)
 * End-to-end Diffusion Transformer for Action Segmentation in Manual Manufacturing Process Analysis (2024)
