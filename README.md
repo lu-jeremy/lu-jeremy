@@ -6,7 +6,7 @@ My work involves statistical machine learning, computer vision, generative model
 Currently, I'm working on robot manipulation with VLMs 🤖 at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, advised by professor Ahmed H. Qureshi.
 
 ## Projects
-* Multi-agent Relational Keypoints for Zero-Shot Robotics Manipulation
+* Multi-agent Relational Keypoints for Zero-Shot Robotics Manipulation (In Progress)
 * Neural Signal Temporal Logic Vision-Language Planner (2024)
 * End-to-end Diffusion Transformer for Action Segmentation in Manual Manufacturing Process Analysis (2024)
 
