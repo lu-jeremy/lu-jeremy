@@ -1,6 +1,6 @@
 # :wave: About Me
 
-I am an undergraduate student pursuing a B.S. in **Computer Science Honors** and **Statistics - Math Emphasis** at **Purdue University**, minoring in Mathematics. I am interested in machine learning, computer vision, and robotics.
+I am an undergraduate student pursuing B.S. in **Computer Science Honors** and **Statistics - Math Emphasis** at **Purdue University**, minoring in Mathematics. I am interested in machine learning, computer vision, and robotics.
 
 🤖 Currently, I am working on robot motion planning with VLMs at the **Cognitive Robot Autonomy & Learning (CoRAL)** lab, advised by professor Ahmed H. Qureshi.
 
