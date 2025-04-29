@@ -2,7 +2,7 @@
 
 I am a **Computer Science Honors** and **Statistics** student at **Purdue University** minoring in Mathematics. I'm interested in machine learning, computer vision, and generative modeling.
 
-I am also an incoming **SDE intern** at **Amazon** for Summer 2025. Currently, I work on robot motion planning at the **Cognitive Robot Autonomy & Learning (CoRAL)** Lab under assistant professor **Ahmed H. Qureshi**. 
+I'm also an incoming **SDE intern** at **Amazon** for Summer 2025. I currently work on motion planning at the **Cognitive Robot Autonomy & Learning (CoRAL)** Lab under assistant professor **Ahmed H. Qureshi**. 
 
 ---
 
