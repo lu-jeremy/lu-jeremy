@@ -9,7 +9,7 @@ I'm also an incoming **SDE intern** at **Amazon** for Summer 2025. I currently w
 ## 🚀 Projects
 Here are some of the projects I have been working on:
 
-- **Multi-agent Relational Keypoints for Zero-Shot Robotics Manipulation** *(2025)* *(Code release in Fall 2025)*
+- **Multi-agent Relational Keypoints for Zero-Shot Robotics Manipulation** *(2025)*
 - **Neural Signal Temporal Logic Vision-Language Planner** *(2024)*
 - **Action Segmentation for Manual Manufacturing Process Analysis** *(2024)*
 
