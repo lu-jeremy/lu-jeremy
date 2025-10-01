@@ -1,6 +1,7 @@
 # :wave: About Me
 
-I am a **Computer Science Honors** and **Statistics Honors** student at **Purdue University**. I'm interested in the intersection of machine learning, statistics, and generative modeling.
+I am a **Computer Science Honors** and **Statistics Honors** student at **Purdue University**, interested in the intersection of machine learning, statistics, and generative modeling.
+
 ---
 
 ## 🚀 Projects
